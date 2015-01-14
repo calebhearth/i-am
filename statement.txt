@@ -1,0 +1,8 @@
+My key's fingerprint is B432 C068 2FD1 C2D0 6A8B  3951 1621 ADC2 A0AC E70A.
+It uses the RSA algorithm and is 2048 bits long.
+
+My GitHub username is @calebthompson.
+
+My Twitter username is @calebthompson.
+
+This message can be verified: `gpg --verify statement.asc statement.txt`
